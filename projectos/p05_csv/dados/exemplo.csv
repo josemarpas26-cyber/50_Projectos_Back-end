@@ -1,0 +1,9 @@
+id,nome,email,idade,salario
+1,Ana Silva,ana@exemplo.co.ao,28,85000
+2,Bruno Costa,bruno@empresa.com,35,120000
+3,Carla Mendes,,42,95000
+4,Daniel Faria,daniel@corp.ao,17,45000
+5,Eva Nunes,eva@exemplo.co.ao,31,110000
+6,,francisco@test.com,29,78000
+7,Gonçalo Reis,nao-e-email,55,200000
+8,Helena Pinto,helena@empresa.ao,38,92000
